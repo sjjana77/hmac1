@@ -1,10 +1,10 @@
 There is a new simple implementation of the AES-GCM Encryption/Authentication mode.
-See new module mrgcm.c
+See new module mrgcm.c  
 To test uncomment example program at the bottom of mrgcm.c and link with mraes.c 
 
 This version is not the fastest possible, but it does use only
 a small amount of memory. Only 2k bytes of RAM are required for
-precomputed tables.
+precomputed tables. 
 
 Some restrictions.. 
 1. Only for use with AES
