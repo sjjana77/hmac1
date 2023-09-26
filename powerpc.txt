@@ -1,6 +1,6 @@
 
 64-bit PowerPC G5 processor now fully supported using GCC Compiler
-
+ 
 Use a header file like 
 
 #define MR_BIG_ENDIAN

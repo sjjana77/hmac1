@@ -5,7 +5,7 @@ type rather than use the approach described here. See double.txt
 
 *************************************
 
-
+ 
 These comments apply to the standard 32-bit SPARC (Version 8) processor with 
 hardware 32-bit multiplication.  For 64-bit SPARC (Version 9) see below.
 

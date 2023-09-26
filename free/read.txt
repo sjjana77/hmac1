@@ -1,6 +1,6 @@
 IBM PC MIRACL APPLICATIONS
 
-
+ 
 RATCALC   - Freeware Rational Calculator. 
 FACTOR    - Freeware General Purpose Factoring Program
 

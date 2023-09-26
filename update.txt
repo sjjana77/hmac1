@@ -5,7 +5,7 @@ The main changes from the earlier version 3.xx is the introduction of the
 MIP, Miracl Instance Pointer. This is to facilitate the development of
 multi-threaded applications. The manual has been updated, and a few small 
 bugs dealt with.
-
+ 
 From a programmers point of view, the main change is that previously Global
 variables like IOBASE, must now be accessed via the MIP, so
 

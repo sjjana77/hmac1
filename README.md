@@ -1,5 +1,5 @@
 MIRACL
-======
+====== 
 What is MIRACL?
 Multiprecision Integer and Rational Arithmetic Cryptographic Library – the MIRACL Crypto SDK – is a C software library that is widely regarded by developers as the gold standard open source SDK for elliptic curve cryptography (ECC).
 

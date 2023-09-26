@@ -3,7 +3,7 @@ ST22 32-bit smart-card processor
 Supported by the files
 
 mrmuldv.st2
-st22.mcs
+st22.mcs 
 st22_new.mcs
 mrkcmx.tpl
 mrcombax.tpl

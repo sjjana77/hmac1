@@ -1,5 +1,5 @@
 rm *.exe
-rm miracl.a
+rm miracl.a 
 cp mirdef.lnx mirdef.h
 gcc -c -m32 -O2 mrcore.c
 gcc -c -m32 -O2 mrarth0.c

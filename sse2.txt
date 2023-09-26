@@ -3,7 +3,7 @@ extensions, then using these instructions can be faster.
 
 The file sse2.mcs is provided as a plug-in alternative for ms86.mcs, and 
 gccsse2.mcs is provided as an alternative for gcc386.mcs
-
+ 
 Using the COMBA or KCM methods and these provided macros, PCs will execute 
 big number code up to 60% faster. Ideal for a Pentium 4 based Crypto server. 
 See kcmcomba.txt

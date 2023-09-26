@@ -6,7 +6,7 @@ to the requirements of multi-precision arithmetic over GF(p) and GF(2^m).
 This is a viable approach due to the increased speed and power of these 
 devices. (Smart cards are NOT low powered devices. Power is taken from
 the card reader, and is thus not particularly limited)
-
+ 
 These smart cards also support impressive amounts of ROM, Flash memory, 
 EEPROM and RAM. Nonetheless the environment is heavily constrained compared 
 to a desktop workstation, or even a PDA or hand-held mobile device.

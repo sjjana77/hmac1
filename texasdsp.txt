@@ -4,7 +4,7 @@ for Texas C6713 processor
 A quick "getting started" project.
 
 Use this as mirdef.h
-
+ 
 #define MR_LITTLE_ENDIAN
 #define MIRACL 32
 #define mr_utype int

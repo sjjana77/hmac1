@@ -2,7 +2,7 @@
 To create MIRACL applications under Microsoft Windows using Microsoft C++ 
 version 6.0, follow these steps. Remember a "Release" build will be 
 faster than a "Debug" build. For MS VC++ .NET see below.
-
+ 
 
 First build the library from the command line, using one of the supplied
 batch files, like ms32doit.bat, or ms64doit.bat for a 64-bit build.

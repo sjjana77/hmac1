@@ -1,5 +1,5 @@
 MIRACL - Bug warnings
-
+ 
 The MIRACL library is written in standard C and has been tested on many
 combinations of computer and compiler. It should work on any system which 
 supports C as defined by Kernighan and Richie. The author is interested to 

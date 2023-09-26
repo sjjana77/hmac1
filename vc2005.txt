@@ -5,7 +5,7 @@ Select New Project, Console Application
 Name: miracl
 Location: d:\myprojects (for example)
 Solution name: miracl
-
+ 
 Click OK
 
 Click Application settings

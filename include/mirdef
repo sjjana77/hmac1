@@ -1,4 +1,4 @@
-/* 
+/*  
  *   MIRACL compiler/hardware definitions - mirdef.h
  *   This version suitable for use with most 32-bit computers
  *   e.g. 80386+ PC, VAX, ARM etc. Assembly language versions of muldiv,

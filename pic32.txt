@@ -2,7 +2,7 @@ Microchip PIC32 advice
 
 This chip is supported by the MPLAB IDE and the MPLAB SIMulator.
 These comments apply to version 8.73, Windows Version
-
+ 
 A suitable mirdef.h file would be 
 
 #define MIRACL 32
