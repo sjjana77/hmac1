@@ -3,7 +3,7 @@ Edwards curves are now supported for ECC.
 There are some limitations. In particular the pairings programs will NOT
 work with Edwards curves. However for ECC programs they will be faster 
 than using the standard Jacobian/Weierstrass method.
-
+ 
 To enable Edwards curves (and disable standard curves), simply insert
 
 #define MR_EDWARDS

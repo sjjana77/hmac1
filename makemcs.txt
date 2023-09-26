@@ -3,7 +3,7 @@ language Macros for an unsupported processor to support the Comba or KCM
 methods for modular multiplication. Note that the "standard" C build of MIRACL 
 may be fast enough, or else the provided C macros may be sufficient. Use c.mcs
 or c1.mcs, but if mr_qltype is defined in mirdef.h, use c3.mcs
-
+ 
 An .mcs file contains C or assembly language macros to implement some simple
 operations on big number digits. On most modern Load/Store RISC processors
 the optimal assembly language required is fortunately quite generic - and  

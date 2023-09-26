@@ -1,7 +1,7 @@
 You have just downloaded the "free" and excellent Borland Compiler from 
 www.borland.com, and you want to compile the MIRACL library and create some 
 applications. If so, read on....
-
+ 
 If you have the TASM assembler (which is not free) then unzip all the MIRACL 
 files into one directory, read the comments at the start of bc32doit.bat
 and if happy execute the batch file. Some example commands to build some 

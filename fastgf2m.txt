@@ -3,7 +3,7 @@ With the introduction of Intel 32nm i5/i7 processors, there
 is support for a "carry-less" multiplication, also known as
 "binary polynomial" multiplication. This support is in the form 
 of the new 64-bit PCLMULQDQ instruction.
-
+ 
 In fact such an instruction is also supported by some Sun and
 Mips processors.
 

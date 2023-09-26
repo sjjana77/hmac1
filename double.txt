@@ -2,7 +2,7 @@
 With version 4.6 it is now possible to use a floating-point "double"
 as the underlying type used to store the digits of a multi-precision number.
 This is fully supported by the "config" utility.
-
+ 
 Some new processors implement integer multiplication using the floating-point 
 multiplier. On processors like these it may be advantageous to 
 work directly with doubles. Other processors support Floating point 

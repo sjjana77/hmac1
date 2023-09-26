@@ -1,7 +1,7 @@
 
 One of the basic design "features" of MIRACL is that all big number types are 
 of the same size, defined either at run time, or at compile time. 
-
+ 
 This means that all big types are of the same size, and in the vast majority 
 of cases this is just fine, and very efficient.
 

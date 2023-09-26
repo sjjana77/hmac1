@@ -1,7 +1,7 @@
 In embedded applications on low-powered processors, performance is a big
 issue. Using either the KCM or Comba methods as described here can increase
 speeds 4-fold.
-
+ 
 To use the super-fast KCM (for 2048-bit RSA 1024-bit DH and DSS) and Comba 
 (for 1024 bit RSA and GF(p) Elliptic curves) methods you will need to create 
 the file mrkcm.c or the file mrcomba.c for inclusion in the MIRACL library. 

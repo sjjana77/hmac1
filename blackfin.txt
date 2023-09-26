@@ -1,6 +1,6 @@
 
 A good starting point with this processor is the example program ecdh2m.c
-
+ 
 This runs "out-of-the-box", with no modifications required, on the 
 VisualDSP++ simulator. Takes about 17 Million clock cycles (release mode) 
 to complete both sides of a Diffie-Hellman key exchange using C-only code.

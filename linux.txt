@@ -1,5 +1,5 @@
 RedHat Linux 6.0+ MIRACL i386 x86-32 installation
-
+ 
 Also works OK for Solaris if its x386/Pentium based.
 
 1. Unzip the MIRACL.ZIP file using the utility unzip, into an empty directory

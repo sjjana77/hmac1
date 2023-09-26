@@ -2,7 +2,7 @@ If developing for the ARM, or indeed any other new processor, you should
 first build a C-only library.
 
 For the ARM, this mirdef.h header would be appropriate for an integer-
-only build of the library.
+only build of the library. 
 
 --------------------------------------
 

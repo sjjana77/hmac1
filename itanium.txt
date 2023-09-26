@@ -2,7 +2,7 @@
 Itanium processor now fully supported using Intel C/C++ Compiler
 
 Use a header file like 
-
+  
 #define MR_LITTLE_ENDIAN
 #define MIRACL 64
 #define mr_utype long

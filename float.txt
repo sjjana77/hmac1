@@ -2,7 +2,7 @@
 A new experimental fast multiprecison floating-point module is now available, 
 implemented in float.cpp and float.h. The motivation was to speed up the CM 
 program fir elliptic curves - see cm.txt
-
+ 
 A new C++ class Float is defined, which can be used instead of Flash. The 
 main advantage is that it uses asymptotically fast methods. If MR_KCM is 
 defined in mirdef.h, then Karatsuba's method is used, otherwise FFT methods 

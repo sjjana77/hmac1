@@ -2,7 +2,7 @@
 /***************************************************************************
                                                                            *
 Copyright 2013 CertiVox UK Ltd.                                           *
-                                                                           *
+                                                                            *
 This file is part of CertiVox MIRACL Crypto SDK.                           *
                                                                            *
 The CertiVox MIRACL Crypto SDK provides developers with an                 *
